@@ -1,14 +1,11 @@
-# Bienvenidos a nuestra Tienda Online
-
-<p>Somos <strong>Erik Maggio</strong> y <strong>Antonio Canteros</strong>, dos desarrolladores colaborando en la creación de una tienda online. Este proyecto constará de la siguiente documentación adjuntada:</p>
-
-
-
 # Documentación del Proyecto
 
 A continuación se presentan los enlaces a la documentación relacionada con el proyecto de la tienda online:
 
 - [Architecture Backend](https://www.figma.com/board/rN5OYMw88B1r3azkohywEs/Architecture?node-id=0-1&t=EuFtT49pCnt24tTq-0)
+
+![Architecture Backend](https://drive.google.com/uc?export=view&id=16XLyJa7wimJHDwvgykbGSdtCL4UFnjl7)
+
 - [General Flow](https://www.figma.com/board/ASyV63IL4yQNtwssTNqc3M/General-flow?node-id=0-1&t=jGREs6WrJGSY9W4I-0)
 - [Api-products Services Flowchart](https://www.figma.com/board/W6a0husbmvcdC1w495XsBP/Api-products-services-flowchart?node-id=0-1&t=IULI3WjFmAM3R0D2-0)
 - [Api-sales Services Flowchart](https://www.figma.com/board/ggFdam1zDpQfG6w8QrZjlm/Api-sales-services-flowchart?node-id=0-1&t=X3PjCNGaTQuAypHx-0)
